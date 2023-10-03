@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a target="_label" href="https://wa.me/+541135562843"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20%2300e676">
-</a>
+<a target="_label" href="https://wa.me/+541135562843"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20green"></a>
 <a href="mailto:lgiallonardi@gmail.com?Subject=He%20visitado%20tu%20perfil%20de%20GitHub!"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%20%23f44336"></a>
 
 
