@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img alt="CII Best Practices Tiered Percentage" src="https://img.shields.io/cii/percentage/:projectId">
 
 <!--
 **lucagiallonardi/lucagiallonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
