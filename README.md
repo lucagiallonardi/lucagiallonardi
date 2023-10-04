@@ -13,6 +13,5 @@
 <h3>Interesting projects</h3>
 <div align="center">
   <a href="https://github.com/lucagiallonardi/smart-tv-web.git"><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 1" width="300" height="200"/></a>
-  <a><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 2" width="300" height="200"/></a>
-  <a><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 2" width="300" height="200"/></a>
+  <a href="https://github.com/lucagiallonardi/movies-react-app"><img src="https://i.postimg.cc/Y0xjq1B9/Sin-t-tulo.png" alt="Imagen 2" width="300" height="200"/></a>
 </div>
