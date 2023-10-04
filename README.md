@@ -11,3 +11,8 @@
 <p>⚛️  Currently, I am focusing on Full Stack web application development with React and Node using Next.js.</a></p>
 
 <h3>Interesting projects</h3>
+<div align="center">
+  <a href="https://github.com/lucagiallonardi/smart-tv-web.git"><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 1" width="300" height="200"/></a>
+  <a><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 2" width="300" height="200"/></a>
+  <a><img src="https://i.postimg.cc/sfksz713/smarttvweb.png" alt="Imagen 2" width="300" height="200"/></a>
+</div>
