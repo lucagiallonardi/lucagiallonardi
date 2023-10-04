@@ -7,24 +7,7 @@
 <p>💡  I like to explore new technologies and develop web solutions.</p>
 <p>🎓  I'm currently studying Systems Analyst at the Institute of Higher Studies of Buenos Aires.</p>
 <p>🌱  I'm on track for learning more about Artificial Intelligence and Cloud Architecture.</p>
-<p>✍️  I’m currently open for: A new job opportunity, <a href="https://my-portfolio-rho-sepia.vercel.app/">Link to my portfolio</a></p>.
-<!--
-**lucagiallonardi/lucagiallonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>✍️  I’m currently open for: A new job opportunity, <a href="https://my-portfolio-rho-sepia.vercel.app/">Link to my portfolio.</a></p>
+<p>⚛️  Currently, I am focusing on Full Stack web application development with React and Node using Next.js.</a></p>
 
-Here are some ideas to get you started:
-💡  I like to explore new technologies and develop software solutions and quick hacks.
-🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
-✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Interesting projects</h3>
