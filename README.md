@@ -3,6 +3,7 @@
 <a href="https://wa.me/+541135562843"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20green"></a>
 <a href="mailto:lgiallonardi@gmail.com?Subject=He%20visitado%20tu%20perfil%20de%20GitHub!"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%20%23f44336"></a>
 <a href="https://www.linkedin.com/in/luca-giallonardi-084992154"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20%230a66c2"></a>
+<a href="https://my-portfolio-rho-sepia.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20-%20brown"></a>
 <h3>👨‍💻 About Me</h3>
 <p>💡  I like to explore new technologies and develop web solutions.</p>
 <p>🎓  I'm currently studying Systems Analyst at the Institute of Higher Studies of Buenos Aires.</p>
