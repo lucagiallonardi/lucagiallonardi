@@ -5,11 +5,11 @@
 <a href="https://www.linkedin.com/in/luca-giallonardi-084992154"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20%230a66c2"></a>
 <a href="https://my-portfolio-rho-sepia.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20-%20brown"></a>
 <h3>👨‍💻 About Me</h3>
-<p>💡  I like to explore new technologies and develop web solutions.</p>
-<p>🎓  I'm currently studying Systems Analyst at the Institute of Higher Studies of Buenos Aires.</p>
-<p>🌱  I'm on track for learning more about Artificial Intelligence and Cloud Architecture.</p>
-<p>✍️  I’m currently open for: A new job opportunity, <a href="https://my-portfolio-rho-sepia.vercel.app/">Link to my portfolio.</a></p>
-<p>⚛️  Currently, I am focusing on Full Stack web application development with React and Node using Next.js.</a></p>
+<p>💡 I’m passionate about exploring new technologies and developing practical web solutions.</p>
+<p>🎓 Systems Analyst with experience in API integrations and full-stack web application development.</p>
+<p>🌱 Deepening my skills in Artificial Intelligence, Cloud Architecture, and business process automation.</p>
+<p>✍️ Open to new job opportunities, <a href="https://my-portfolio-rho-sepia.vercel.app/">Link to my portfolio.</a></p>
+<p>⚛️ Focused on Full Stack development with React, Node.js, Next.js, and MongoDB/SQL. Experienced in APIs, third-party integrations like MercadoPago, and complex projects.</a></p>
 
 <h3>Interesting projects</h3>
 <div align="left">
